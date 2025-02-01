@@ -1,5 +1,5 @@
 ## Stack
-LLM/DeepLearning/MachinLearning<br> Web/App Front/Backend
+<span style="font-size:14px;">LLM/DeepLearning/MachinLearning</span><br> Web/App Front/Backend<br>
 Python<br> Pytorch<br> Java<br>  Oracle<br>  Spring/SpringBoot<br>  Vue.js/Node.js<br>  Android/firebase<br>  Git/SVN<br>  Linux<br> Docker<br>
 
 ## Project
