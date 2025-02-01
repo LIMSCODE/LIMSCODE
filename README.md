@@ -1,6 +1,8 @@
 ## Stack
 Python
+
 Pytorch  
+
 LLM / DeepLearning / MachinLearning
 Java 
 Oracle
