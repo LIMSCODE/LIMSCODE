@@ -1,10 +1,21 @@
-LLM/DeepLearning/MachinLearning/ComputerVision<br>  Web,App Front/Backend<br>
-## Stack
-  Python<br> Pytorch<br> Java<br>  Oracle<br>  Spring/SpringBoot<br>  Vue.js/Node.js<br>  Android/firebase<br>  Git/SVN<br>  Linux<br> Docker<br>  
+
 ```
-Python 
+LLM/DeepLearning/MachinLearning/ComputerVision
+Web,App Front/Backend
+```
+
+## Stack
+```
+Python
 Pytorch
 Java
+Oracle
+Spring/SpringBoot
+Vue.js/Node.js
+Android/firebase
+Git/SVN
+Linux
+Docker
 ```
 
 ## Project
