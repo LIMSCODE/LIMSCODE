@@ -1,5 +1,5 @@
 ## Stack
-<h6>Python</h6><br> Pytorch<br>   
+<span style="font-size:20px;">Python</span><br> Pytorch<br>   
 LLM / DeepLearning / MachinLearning<br>
 Java  Oracle  Spring / SpringBoot  Vue.js / Node.js  Android / firebase  Git / SVN  Linux  Docker
 
