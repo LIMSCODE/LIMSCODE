@@ -1,6 +1,7 @@
 ## Stack
-Python<br>  Pytorch<br>   LLM / DeepLearning / MachinLearning  
-
+Python<br>  
+Pytorch<br>   
+LLM / DeepLearning / MachinLearning<br>
 Java  Oracle  Spring / SpringBoot  Vue.js / Node.js  Android / firebase  Git / SVN  Linux  Docker
 
 ## Project
